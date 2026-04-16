@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="formato.xsl"?>
+
+<biblioteca>
+    <libro id="l1">
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <paginas>863</paginas>
+        <sinopsis>Un hidalgo que enloquece leyendo libros de caballería.</sinopsis>
+    </libro>
+
+    <libro id="l2">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <anio>1967</anio>
+        <paginas>471</paginas>
+        <sinopsis>La historia de la familia Buendía en Macondo.</sinopsis>
+    </libro>
+
+    <libro id="l3">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio>1949</anio>
+        <paginas>328</paginas>
+        <sinopsis>Una sociedad vigilada por un régimen totalitario.</sinopsis>
+    </libro>
+</biblioteca>
