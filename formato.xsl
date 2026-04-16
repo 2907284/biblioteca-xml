@@ -5,6 +5,44 @@
 <xsl:template match="/">
 
 <html>
+
+    <head>
+
+        <style>
+body {
+    font-family: Arial;
+    background-color: #f4f6f8;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+th {
+    background-color: #007acc;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+div {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+</style>
+    </head>
 <body>
 
 <h1>Índice de libros</h1>
